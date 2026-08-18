@@ -1,4 +1,4 @@
-PHYS 441: Introduction to Computational Physics
+PHYS 241: Introduction to Computational Physics
 ===============================
 
 A set of Jupyter notebooks that constitute an active-learning or self-directed
